@@ -30,7 +30,7 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![blender](https://www.blender.org/download/releases/4-0/style=for-the-badge&logo=unity&logoColor=white)
+![blender](https://www.blender.org/download/releases/4-0/-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 #### Studying in this moment:
 
